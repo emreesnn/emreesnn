@@ -1,7 +1,7 @@
 <h1>Hi, I'm Emre! 👋</h1>
 
 🔭 I’m currently working on becoming a Backend Developer<br>👯 I’m looking to collaborate on on cool projects<br>🌱 I’m currently learning cloud architecture and containerization (Docker is my new friend).<br>💬 Ask me about job opportunities :)<br>
-<br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emreesnn/)
+<br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emreesnn/)
 
 <h3> 💻 Languages and Tools: </h3> 
 
